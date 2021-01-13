@@ -7,11 +7,11 @@ const name = " Bitch";
 
 // Here you can change your greetings
 const gree1 = "Go to Sleep  ";
-const gree2 = "morning  ";
-const gree3 = "afternoon  ";
-const gree4 = "evening,  ";
-const gree5 = "evening,  ";
-const gree6 = "evening,  ";
+const gree2 = "Morning  ";
+const gree3 = "Afternoon  ";
+const gree4 = "Evening,  ";
+const gree5 = "Evening,  ";
+const gree6 = "Evening,  ";
 
 // Define the hours of the greetings
 if (hour >= 23 && hour < 5) {
